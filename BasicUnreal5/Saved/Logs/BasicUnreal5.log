@@ -3699,3 +3699,47 @@ Script Stack (0 frames) :
 [2024.04.20-12.18.05:130][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.04.20-12.18.05:143][416]LogPlayLevel: Display: Destroying online subsystem :Context_24
 [2024.04.20-12.18.05:173][416]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-12.22.57:643][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.20-12.22.57:646][376]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XP/TSBJ803YYF8CR5R20LJVXR_Auto3
+[2024.04.20-12.22.57:646][376]LogSavePackage: Moving '../../../../Project/Unreal2D00/BasicUnreal5/Saved/TSBJ803YYF8CR5R20LJVXR_Auto3BE05F4704730E081E59AB59C0C6292A7.tmp' to '../../../../Project/Unreal2D00/BasicUnreal5/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XP/TSBJ803YYF8CR5R20LJVXR_Auto3.uasset'
+[2024.04.20-12.22.57:648][376]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MK/0ADDMRAX91QQT1YAMGU4RK_Auto3
+[2024.04.20-12.22.57:648][376]LogSavePackage: Moving '../../../../Project/Unreal2D00/BasicUnreal5/Saved/0ADDMRAX91QQT1YAMGU4RK_Auto36AAEC38B4C6145F69A16B3AEE3044C37.tmp' to '../../../../Project/Unreal2D00/BasicUnreal5/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MK/0ADDMRAX91QQT1YAMGU4RK_Auto3.uasset'
+[2024.04.20-12.22.57:649][376]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2024.04.20-12.22.57:649][376]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2024.04.20-12.45.33:338][484]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.04.20-12.48.57:804][ 97]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 328 files in 591 folders with total size 2 MiB.
+[2024.04.20-13.06.17:416][216]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LC49G95T (NVIDIA High Definition Audio), InstanceID=1
+[2024.04.20-13.06.17:735][216]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=37204
+[2024.04.20-13.06.18:069][217]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a5ff4174-db31-44ff-98fd-6880305faa4b}, Name=LC49G95T (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=111.08
+[2024.04.20-13.06.18:069][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.20-13.06.18:072][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.20-13.26.58:930][940]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=헤드폰 (2- 혁's HX), InstanceID=1
+[2024.04.20-13.26.59:243][940]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=37204
+[2024.04.20-13.26.59:578][941]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a39dcb7d-6dbf-46f6-a99a-15527cb50462}, Name=헤드폰 (2- 혁's HX)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=53.46
+[2024.04.20-13.26.59:578][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.20-13.26.59:579][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.20-13.35.02:159][389]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LC49G95T (NVIDIA High Definition Audio), InstanceID=1
+[2024.04.20-13.35.02:319][389]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=37204
+[2024.04.20-13.35.02:653][390]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a5ff4174-db31-44ff-98fd-6880305faa4b}, Name=LC49G95T (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.74
+[2024.04.20-13.35.02:653][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.20-13.35.02:656][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.20-13.38.47:482][ 65]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=헤드폰 (2- 혁's HX), InstanceID=1
+[2024.04.20-13.38.47:682][ 65]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=37204
+[2024.04.20-13.38.48:017][ 66]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a39dcb7d-6dbf-46f6-a99a-15527cb50462}, Name=헤드폰 (2- 혁's HX)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=44.94
+[2024.04.20-13.38.48:017][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.20-13.38.48:018][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.20-13.48.57:770][896]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.028 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 328 files in 591 folders with total size 2 MiB.
+[2024.04.20-14.48.57:767][694]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.024 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 328 files in 591 folders with total size 2 MiB.
+[2024.04.20-15.03.36:110][329]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LC49G95T (NVIDIA High Definition Audio), InstanceID=1
+[2024.04.20-15.03.36:438][329]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=37204
+[2024.04.20-15.03.36:774][330]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a5ff4174-db31-44ff-98fd-6880305faa4b}, Name=LC49G95T (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=32.97
+[2024.04.20-15.03.36:774][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.20-15.03.36:776][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.20-15.26.01:840][365]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=헤드폰 (2- 혁's HX), InstanceID=1
+[2024.04.20-15.26.01:985][365]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=37204
+[2024.04.20-15.26.02:320][366]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a39dcb7d-6dbf-46f6-a99a-15527cb50462}, Name=헤드폰 (2- 혁's HX)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=74.05
+[2024.04.20-15.26.02:320][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.20-15.26.02:321][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.20-15.48.57:792][492]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 328 files in 591 folders with total size 2 MiB.
+[2024.04.20-16.48.57:776][291]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.032 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 328 files in 591 folders with total size 2 MiB.
+[2024.04.20-17.48.57:769][194]LogDerivedDataCache: C:/Users/borad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.024 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 328 files in 591 folders with total size 2 MiB.
